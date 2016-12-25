@@ -1,7 +1,7 @@
 # Monkey Interpreter
 Interpreter for Monkey programming language written in Go
 
-Based on [*Writing an Interpreter in Go*](https://interpreterbook.com/) by Thorsten Ball
+Based on [*Writing an Interpreter in Go*](https://interpreterbook.com/) by [Thorsten Ball](https://github.com/mrnugget)
 
 The Monkey programming language was created by Ball to teach interpreter concepts, and has the following features:
 - C-like syntax
