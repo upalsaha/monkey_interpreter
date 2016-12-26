@@ -16,3 +16,5 @@ The Monkey programming language was created by Ball to teach interpreter concept
 - hash data structure
 
 Parser algorithms based on Pratt Parsing
+
+Evaluator is built asa tree-walking interpreter, with no preprocessing or compilation, much like Lisp interpreters
